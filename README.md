@@ -63,6 +63,7 @@ alert Done!
 ## 📝 ライセンス (License)
 
 This project is licensed under the MIT License.
+
 ⚠️ ライセンスと著作権について / License and Copyright
 このプロジェクトは GNU General Public License v3.0 (GPLv3) のもとで公開されています。
 
@@ -77,5 +78,6 @@ Copyleft: Any derivative work or modifications of this source code must also be 
 Attribution: You must retain the original copyright notice and give appropriate credit to the author.
 Unauthorized copying, distribution, or plagiarism without complying with the GPLv3 terms will result in an immediate DMCA takedown notice to GitHub.
 Copyright (c) 2026 minaton
+
 # Easy.py-1.0
 Compared to the previous version, save, load, and exit functions have been added. 
